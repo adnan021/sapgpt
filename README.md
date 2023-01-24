@@ -1,1 +1,1 @@
-SAPGPT
+Build ChatGPT 2.0 with Vue 3, Node Js, Express Js and OpenAI
